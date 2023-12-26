@@ -19,6 +19,9 @@ df_selected = df[selected_columns]
 print(df_selected.head())
 
 ```
+![Screenshot 2023-12-26 072905](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/cd0de4a9-9361-4b4c-8cec-3e5643561969)![Screenshot 2023-12-26 074013](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/8acd9a23-1abd-4736-bf21-abf9eec916a6)
+
+![Screenshot 2023-12-26 072917](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/a1da07e7-aa88-467d-8e0a-e5a5a5e8d18f)
 
 2. **Data Cleaning and Preprocessing:**
    - Cleaned the dataset by handling missing values and converting data types.
@@ -118,7 +121,11 @@ plt.title('Sentiment Polarity Distribution')
 plt.xlabel('Sentiment Polarity')
 plt.show()
 ```
+![Screenshot 2023-12-26 074013](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/df9e3602-21a1-4390-a986-65107b95415c)
 
+![Screenshot 2023-12-26 074023](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/25e81f71-09af-4b77-b94d-0e9b176e0af5)
+![Screenshot 2023-12-26 074118](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/82a90d40-2531-43da-9512-29fb3474c25f)
+![Screenshot 2023-12-26 074259](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/b64b0810-6445-44dc-8bf6-b8f17094525c)
 
 6. **Machine Learning Model:**
    - Prepared data by converting text to numerical features using TF-IDF vectorization.
@@ -197,6 +204,8 @@ plt.ylabel('Actual')
 plt.title('Confusion Matrix')
 plt.show()
 ```
+![Screenshot 2023-12-26 074554](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/50432bee-b6d8-4a2a-b6cc-a7e08811affc)
+![Screenshot 2023-12-26 074602](https://github.com/TheSegunAdebiyi/Comprehensive-Analysis-of-Twitter-US-Airline-Data-using-python/assets/107259515/80828a7b-39b0-4380-819d-1b61e00a8f8a)
 
 8. **Conclusion:**
    - Summarized key findings, insights, and contributions of the project.
